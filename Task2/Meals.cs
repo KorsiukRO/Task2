@@ -3,7 +3,9 @@ namespace Task2;
 public class Meals
 {
     public string Name { get; set; }
+    
     public int Energy { get; set; }
+    
     public int Weight { get; set; }
 
     public Meals() { }
